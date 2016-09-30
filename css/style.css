@@ -1,0 +1,20 @@
+@import 'https://fonts.googleapis.com/css?family=Amaranth:700';
+
+body { font-family: 'Open Sans', sans-serif; }
+input[type="text"] { width: 98%; }
+hr { margin-top: 2rem; margin-bottom: 2rem; }
+img { max-width: 100%; }
+
+.red { color: #ff0000; }
+.site_title { font-family: 'Amaranth', sans-serif; font-weight: 700; font-size: 6rem; margin-bottom: 0; }
+.site_title a { text-decoration: none; color: #000; }
+.header { padding-top: 20px; }
+.footer { text-align: center; color: #444; font-size: 13px; padding-bottom: 20px; }
+.clearfix { display: block; }
+.h20 { height: 20px; }
+.h30 { height: 30px; }
+.left { float: left; }
+.right { float:right; }
+.error { color: #ef5350; font-weight: 700; text-align: center; }
+.stitle { font-size: 1.8rem; font-weight: 700; }
+.csix { margin-left: 2%; width: 50% !important; }
